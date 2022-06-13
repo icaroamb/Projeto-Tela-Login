@@ -122,9 +122,18 @@ main{
         height: 50vh;
     }
 
+    #first > img{
+        width: 40vw;
+    }
+
     #second{
         width: 100vw;
         height: 50vh;
+    }
+    #card{
+
+        margin-top: -100px;
+        width: 80%;
     }
 }
 
